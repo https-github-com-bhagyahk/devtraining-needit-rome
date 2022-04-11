@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="3" type="collection">
+        <element choice="1" label="New field3" max_length="40" name="u_new_field_3" type="integer">
+            <choice/>
+        </element>
+    </element>
+</database>
